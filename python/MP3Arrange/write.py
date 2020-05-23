@@ -11,15 +11,23 @@ print("Old music total:", len(old_files))
 if not os.path.exists(DST_DIR):
     os.makedirs(DST_DIR)
 
+idx = 0
 with open("output_list.txt", 'w', encoding='gbk') as fo:
     with open("new_list.txt", encoding='gbk') as f:
-        for idx, line in enumerate(f.readlines()):
-            line = line[:-1]
-            if len(line) == 0: continue
+        for line in f.readlines():
+            line = line.strip()
+            if line == '': continue
+            idx += 1
             line = line.split(' ')
             name = line[-1]
-            print('Copy from', f"'{SRC_DIR}/{old_files[name]}'", 'to', f"'{DST_DIR}/{idx+1:03d} {name}.mp3'")
-            # copyfile(f"{SRC_DIR}/{old_files[name]}", f"{DST_DIR}/{idx+1:03d} {name}.mp3")
-            fo.write(f"{idx+1:03d} {name}\n")
+            src = f"{SRC_DIR}/{old_files[name]}"
+            dst = f"{DST_DIR}/{idx:03d} {name}.mp3"
+            fo.write(f"{idx:03d} {name}\n")
+            if os.path.exists(dst):
+                continue
+            print(f'{idx:03d} Copy from', f"'{src}'", 'to', f"'{dst}'")
+            # copyfile(src, dst)
+            if not os.path.exists(dst):
+                print("WARNING:", dst, "not copied.")
 
 
