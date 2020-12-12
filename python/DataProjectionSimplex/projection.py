@@ -12,7 +12,7 @@ class Projection(metaclass=abc.ABCMeta):
         return (self.projection_matrix @ points.T).T
 
 
-class ProjectionSimplexS2(Projection):
+class ProjectionSimplexS1(Projection):
     def __init__(self):
         super().__init__()
         self.projection_matrix = np.array([
@@ -20,7 +20,7 @@ class ProjectionSimplexS2(Projection):
         ])
 
 
-class ProjectionSimplexS3(Projection):
+class ProjectionSimplexS2(Projection):
     def __init__(self):
         super().__init__()
         self.projection_matrix = np.array([
@@ -29,7 +29,7 @@ class ProjectionSimplexS3(Projection):
         ])
 
 
-class ProjectionSimplexS4(Projection):
+class ProjectionSimplexS3(Projection):
     def __init__(self):
         super().__init__()
         self.projection_matrix = np.array([
@@ -58,9 +58,10 @@ if __name__ == '__main__':
         [0., 0., 0., 1.],
         [.25, .25, .25, .25],
     ])
+    s1 = ProjectionSimplexS1()
     s2 = ProjectionSimplexS2()
     s3 = ProjectionSimplexS3()
-    s4 = ProjectionSimplexS4()
-    print(data_2d, s2.project(data_2d), sep='\n')
-    print(data_3d, s4.project(data_3d), sep='\n')
-    print(data_4d, s4.project(data_4d), sep='\n')
+    print(data_2d, s1.project(data_2d), sep='\n')
+    print(data_3d, s2.project(data_3d), sep='\n')
+    print(data_4d, s3.project(data_4d), sep='\n')
+
