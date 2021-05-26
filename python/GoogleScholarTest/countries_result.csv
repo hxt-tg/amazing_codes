@@ -1,0 +1,241 @@
+name,country_code,iso_code,iso_code_long,population,area,gdp,scholar_status
+Afghanistan,93,af,afg,29121286,647500,20.65 Billion,Unavailable
+Albania,355,al,alb,2986952,28748,12.8 Billion,Unavailable
+Algeria,213,dz,dza,34586184,2381740,215.7 Billion,Unavailable
+American Samoa,1-684,as,asm,57881,199,462.2 Million,Unavailable
+Andorra,376,ad,and,84000,468,4.8 Billion,Unavailable
+Angola,244,ao,ago,13068161,1246700,124 Billion,Unavailable
+Anguilla,1-264,ai,aia,13254,102,175.4 Million,Unavailable
+Antarctica,672,aq,ata,0,14000000,,Unavailable
+Antigua and Barbuda,1-268,ag,atg,86754,443,1.22 Billion,Unavailable
+Argentina,54,ar,arg,41343201,2766890,484.6 Billion,200
+Armenia,374,am,arm,2968000,29800,10.44 Billion,Unavailable
+Aruba,297,aw,abw,71566,193,2.516 Billion,Unavailable
+Australia,61,au,aus,21515754,7686850,1.488 Trillion,200
+Austria,43,at,aut,8205000,83858,417.9 Billion,Unavailable
+Azerbaijan,994,az,aze,8303512,86600,76.01 Billion,Unavailable
+Bahamas,1-242,bs,bhs,301790,13940,8.373 Billion,Unavailable
+Bahrain,973,bh,bhr,738004,665,28.36 Billion,Unavailable
+Bangladesh,880,bd,bgd,156118464,144000,140.2 Billion,Unavailable
+Barbados,1-246,bb,brb,285653,431,4.262 Billion,Unavailable
+Belarus,375,by,blr,9685000,207600,69.24 Billion,Unavailable
+Belgium,32,be,bel,10403000,30510,507.4 Billion,Unavailable
+Belize,501,bz,blz,314522,22966,1.637 Billion,Unavailable
+Benin,229,bj,ben,9056010,112620,8.359 Billion,Unavailable
+Bermuda,1-441,bm,bmu,65365,53,5.6 Billion,Unavailable
+Bhutan,975,bt,btn,699847,47000,2.133 Billion,Unavailable
+Bolivia,591,bo,bol,9947418,1098580,30.79 Billion,200
+Bosnia and Herzegovina,387,ba,bih,4590000,51129,18.87 Billion,Unavailable
+Botswana,267,bw,bwa,2029307,600370,15.53 Billion,Unavailable
+Brazil,55,br,bra,201103330,8511965,2.19 Trillion,200
+British Indian Ocean Territory,246,io,iot,4000,60,,Unavailable
+British Virgin Islands,1-284,vg,vgb,21730,153,1.095 Billion,Unavailable
+Brunei,673,bn,brn,395027,5770,16.56 Billion,Unavailable
+Bulgaria,359,bg,bgr,7148785,110910,53.7 Billion,Unavailable
+Burkina Faso,226,bf,bfa,16241811,274200,12.13 Billion,Unavailable
+Burundi,257,bi,bdi,9863117,27830,2.676 Billion,Unavailable
+Cambodia,855,kh,khm,14453680,181040,15.64 Billion,Unavailable
+Cameroon,237,cm,cmr,19294149,475440,27.88 Billion,Unavailable
+Canada,1,ca,can,33679000,9984670,1.825 Trillion,Unavailable
+Cape Verde,238,cv,cpv,508659,4033,1.955 Billion,Unavailable
+Cayman Islands,1-345,ky,cym,44270,262,2.25 Billion,Unavailable
+Central African Republic,236,cf,caf,4844927,622984,2.05 Billion,Unavailable
+Chad,235,td,tcd,10543464,1284000,13.59 Billion,Unavailable
+Chile,56,cl,chl,16746491,756950,281.7 Billion,Unavailable
+China,86,cn,chn,1330044000,9596960,9.33 Trillion,200
+Christmas Island,61,cx,cxr,1500,135,,Unavailable
+Cocos Islands,61,cc,cck,628,14,,Unavailable
+Colombia,57,co,col,47790000,1138910,369.2 Billion,200
+Comoros,269,km,com,773407,2170,658 Million,Unavailable
+Cook Islands,682,ck,cok,21388,240,183.2 Million,Unavailable
+Costa Rica,506,cr,cri,4516220,51100,48.51 Billion,Unavailable
+Croatia,385,hr,hrv,4491000,56542,59.14 Billion,Unavailable
+Cuba,53,cu,cub,11423000,110860,72.3 Billion,200
+Curacao,599,cw,cuw,141766,444,5.6 Billion,Unavailable
+Cyprus,357,cy,cyp,1102677,9250,21.78 Billion,Unavailable
+Czech Republic,420,cz,cze,10476000,78866,194.8 Billion,Unavailable
+Democratic Republic of the Congo,243,cd,cod,70916439,2345410,18.56 Billion,Unavailable
+Denmark,45,dk,dnk,5484000,43094,324.3 Billion,Unavailable
+Djibouti,253,dj,dji,740528,23000,1.459 Billion,Unavailable
+Dominica,1-767,dm,dma,72813,754,495 Million,Unavailable
+Dominican Republic,"1-809, 1-829, 1-849",do,dom,9823821,48730,59.27 Billion,200
+East Timor,670,tl,tls,1154625,15007,6.129 Billion,Unavailable
+Ecuador,593,ec,ecu,14790608,283560,91.41 Billion,200
+Egypt,20,eg,egy,80471869,1001450,262 Billion,200
+El Salvador,503,sv,slv,6052064,21040,24.67 Billion,200
+Equatorial Guinea,240,gq,gnq,1014999,28051,17.08 Billion,Unavailable
+Eritrea,291,er,eri,5792984,121320,3.438 Billion,Unavailable
+Estonia,372,ee,est,1291170,45226,24.28 Billion,Unavailable
+Ethiopia,251,et,eth,88013491,1127127,47.34 Billion,Unavailable
+Falkland Islands,500,fk,flk,2638,12173,164.5 Million,Unavailable
+Faroe Islands,298,fo,fro,48228,1399,2.32 Billion,Unavailable
+Fiji,679,fj,fji,875983,18270,4.218 Billion,Unavailable
+Finland,358,fi,fin,5244000,337030,259.6 Billion,Unavailable
+France,33,fr,fra,64768389,547030,2.739 Trillion,Unavailable
+French Polynesia,689,pf,pyf,270485,4167,5.65 Billion,Unavailable
+Gabon,241,ga,gab,1545255,267667,19.97 Billion,Unavailable
+Gambia,220,gm,gmb,1593256,11300,896 Million,Unavailable
+Georgia,995,ge,geo,4630000,69700,15.95 Billion,Unavailable
+Germany,49,de,deu,81802257,357021,3.593 Trillion,Unavailable
+Ghana,233,gh,gha,24339838,239460,45.55 Billion,Unavailable
+Gibraltar,350,gi,gib,27884,7,1.106 Billion,Unavailable
+Greece,30,gr,grc,11000000,131940,243.3 Billion,200
+Greenland,299,gl,grl,56375,2166086,2.16 Billion,Unavailable
+Grenada,1-473,gd,grd,107818,344,811 Million,Unavailable
+Guam,1-671,gu,gum,159358,549,4.6 Billion,Unavailable
+Guatemala,502,gt,gtm,13550440,108890,53.9 Billion,200
+Guernsey,44-1481,gg,ggy,65228,78,2.742 Billion,Unavailable
+Guinea,224,gn,gin,10324025,245857,6.544 Billion,Unavailable
+Guinea-Bissau,245,gw,gnb,1565126,36120,880 Million,Unavailable
+Guyana,592,gy,guy,748486,214970,3.02 Billion,Unavailable
+Haiti,509,ht,hti,9648924,27750,8.287 Billion,Unavailable
+Honduras,504,hn,hnd,7989415,112090,18.88 Billion,Unavailable
+Hong Kong,852,hk,hkg,6898686,1092,272.1 Billion,200
+Hungary,36,hu,hun,9982000,93030,130.6 Billion,Unavailable
+Iceland,354,is,isl,308910,103000,14.59 Billion,Unavailable
+India,91,in,ind,1173108018,3287590,1.67 Trillion,Unavailable
+Indonesia,62,id,idn,242968342,1919440,867.5 Billion,Unavailable
+Iran,98,ir,irn,76923300,1648000,411.9 Billion,Unavailable
+Iraq,964,iq,irq,29671605,437072,221.8 Billion,Unavailable
+Ireland,353,ie,irl,4622917,70280,220.9 Billion,Unavailable
+Isle of Man,44-1624,im,imn,75049,572,4.076 Billion,Unavailable
+Israel,972,il,isr,7353985,20770,272.7 Billion,Unavailable
+Italy,39,it,ita,60340328,301230,2.068 Trillion,Unavailable
+Ivory Coast,225,ci,civ,21058798,322460,28.28 Billion,Unavailable
+Jamaica,1-876,jm,jam,2847232,10991,14.39 Billion,Unavailable
+Japan,81,jp,jpn,127288000,377835,5.007 Trillion,Unavailable
+Jersey,44-1534,je,jey,90812,116,5.1 Billion,Unavailable
+Jordan,962,jo,jor,6407085,92300,34.08 Billion,Unavailable
+Kazakhstan,7,kz,kaz,15340000,2717300,224.9 Billion,Unavailable
+Kenya,254,ke,ken,40046566,582650,45.31 Billion,Unavailable
+Kiribati,686,ki,kir,92533,811,173 Million,Unavailable
+Kosovo,383,xk,xkx,1800000,10887,7.15 Billion,Unavailable
+Kuwait,965,kw,kwt,2789132,17820,179.5 Billion,Unavailable
+Kyrgyzstan,996,kg,kgz,5508626,198500,7.234 Billion,Unavailable
+Laos,856,la,lao,6368162,236800,10.1 Billion,Unavailable
+Latvia,371,lv,lva,2217969,64589,30.38 Billion,404
+Lebanon,961,lb,lbn,4125247,10400,43.49 Billion,Unavailable
+Lesotho,266,ls,lso,1919552,30355,2.457 Billion,Unavailable
+Liberia,231,lr,lbr,3685076,111370,1.977 Billion,Unavailable
+Libya,218,ly,lby,6461454,1759540,70.92 Billion,200
+Liechtenstein,423,li,lie,35000,160,5.113 Billion,Unavailable
+Lithuania,370,lt,ltu,2944459,65200,46.71 Billion,Unavailable
+Luxembourg,352,lu,lux,497538,2586,60.54 Billion,Unavailable
+Macau,853,mo,mac,449198,254,51.68 Billion,Unavailable
+Macedonia,389,mk,mkd,2062294,25333,10.65 Billion,Unavailable
+Madagascar,261,mg,mdg,21281844,587040,10.53 Billion,Unavailable
+Malawi,265,mw,mwi,15447500,118480,3.683 Billion,Unavailable
+Malaysia,60,my,mys,28274729,329750,312.4 Billion,200
+Maldives,960,mv,mdv,395650,300,2.27 Billion,Unavailable
+Mali,223,ml,mli,13796354,1240000,11.37 Billion,Unavailable
+Malta,356,mt,mlt,403000,316,9.541 Billion,Unavailable
+Marshall Islands,692,mh,mhl,65859,181,193 Million,Unavailable
+Mauritania,222,mr,mrt,3205060,1030700,4.183 Billion,Unavailable
+Mauritius,230,mu,mus,1294104,2040,11.9 Billion,Unavailable
+Mayotte,262,yt,myt,159042,374,,Unavailable
+Mexico,52,mx,mex,112468855,1972550,1.327 Trillion,200
+Micronesia,691,fm,fsm,107708,702,339 Million,Unavailable
+Moldova,373,md,mda,4324000,33843,7.932 Billion,Unavailable
+Monaco,377,mc,mco,32965,2,5.748 Billion,Unavailable
+Mongolia,976,mn,mng,3086918,1565000,11.14 Billion,Unavailable
+Montenegro,382,me,mne,666730,14026,4.518 Billion,Unavailable
+Montserrat,1-664,ms,msr,9341,102,,Unavailable
+Morocco,212,ma,mar,31627428,446550,104.8 Billion,Unavailable
+Mozambique,258,mz,moz,22061451,801590,14.67 Billion,Unavailable
+Myanmar,95,mm,mmr,53414374,678500,59.43 Billion,Unavailable
+Namibia,264,na,nam,2128471,825418,12.3 Billion,Unavailable
+Nauru,674,nr,nru,10065,21,,Unavailable
+Nepal,977,np,npl,28951852,140800,19.34 Billion,Unavailable
+Netherlands,31,nl,nld,16645000,41526,722.3 Billion,Unavailable
+Netherlands Antilles,599,an,ant,136197,960,,Unavailable
+New Caledonia,687,nc,ncl,216494,19060,9.28 Billion,Unavailable
+New Zealand,64,nz,nzl,4252277,268680,181.1 Billion,Unavailable
+Nicaragua,505,ni,nic,5995928,129494,11.26 Billion,200
+Niger,227,ne,ner,15878271,1267000,7.304 Billion,Unavailable
+Nigeria,234,ng,nga,154000000,923768,502 Billion,Unavailable
+Niue,683,nu,niu,2166,260,10.01 Million,Unavailable
+North Korea,850,kp,prk,22912177,120540,28 Billion,Unavailable
+Northern Mariana Islands,1-670,mp,mnp,53883,477,733 Million,Unavailable
+Norway,47,no,nor,5009150,324220,515.8 Billion,Unavailable
+Oman,968,om,omn,2967717,212460,81.95 Billion,Unavailable
+Pakistan,92,pk,pak,184404791,803940,236.5 Billion,200
+Palau,680,pw,plw,19907,458,221 Million,Unavailable
+Palestine,970,ps,pse,3800000,5970,6.641 Billion,Unavailable
+Panama,507,pa,pan,3410676,78200,40.62 Billion,200
+Papua New Guinea,675,pg,png,6064515,462840,16.1 Billion,Unavailable
+Paraguay,595,py,pry,6375830,406750,30.56 Billion,200
+Peru,51,pe,per,29907003,1285220,210.3 Billion,200
+Philippines,63,ph,phl,99900177,300000,272.2 Billion,200
+Pitcairn,64,pn,pcn,46,47,,Unavailable
+Poland,48,pl,pol,38500000,312685,513.9 Billion,200
+Portugal,351,pt,prt,10676000,92391,219.3 Billion,404
+Puerto Rico,"1-787, 1-939",pr,pri,3916632,9104,93.52 Billion,200
+Qatar,974,qa,qat,840926,11437,213.1 Billion,Unavailable
+Republic of the Congo,242,cg,cog,3039126,342000,14.25 Billion,Unavailable
+Reunion,262,re,reu,776948,2517,,Unavailable
+Romania,40,ro,rou,21959278,237500,188.9 Billion,Unavailable
+Russia,7,ru,rus,140702000,17100000,2.113 Trillion,200
+Rwanda,250,rw,rwa,11055976,26338,7.7 Billion,Unavailable
+Saint Barthelemy,590,bl,blm,8450,21,,Unavailable
+Saint Helena,290,sh,shn,7460,410,,Unavailable
+Saint Kitts and Nevis,1-869,kn,kna,51134,261,767 Million,Unavailable
+Saint Lucia,1-758,lc,lca,160922,616,1.377 Billion,Unavailable
+Saint Martin,590,mf,maf,35925,53,561.5 Million,Unavailable
+Saint Pierre and Miquelon,508,pm,spm,7012,242,215.3 Million,Unavailable
+Saint Vincent and the Grenadines,1-784,vc,vct,104217,389,742 Million,Unavailable
+Samoa,685,ws,wsm,192001,2944,705 Million,Unavailable
+San Marino,378,sm,smr,31477,61,1.866 Billion,Unavailable
+Sao Tome and Principe,239,st,stp,175808,1001,311 Million,Unavailable
+Saudi Arabia,966,sa,sau,25731776,1960582,718.5 Billion,Unavailable
+Senegal,221,sn,sen,12323252,196190,15.36 Billion,Unavailable
+Serbia,381,rs,srb,7344847,88361,43.68 Billion,Unavailable
+Seychelles,248,sc,syc,88340,455,1.271 Billion,Unavailable
+Sierra Leone,232,sl,sle,5245695,71740,4.607 Billion,Unavailable
+Singapore,65,sg,sgp,4701069,693,295.7 Billion,200
+Sint Maarten,1-721,sx,sxm,37429,34,794.7 Million,Unavailable
+Slovakia,421,sk,svk,5455000,48845,96.96 Billion,Unavailable
+Slovenia,386,si,svn,2007000,20273,46.82 Billion,Unavailable
+Solomon Islands,677,sb,slb,559198,28450,1.099 Billion,Unavailable
+Somalia,252,so,som,10112453,637657,2.372 Billion,Unavailable
+South Africa,27,za,zaf,49000000,1219912,353.9 Billion,Unavailable
+South Korea,82,kr,kor,48422644,98480,1.198 Trillion,Unavailable
+South Sudan,211,ss,ssd,8260490,644329,11.77 Billion,Unavailable
+Spain,34,es,esp,46505963,504782,1.356 Trillion,Unavailable
+Sri Lanka,94,lk,lka,21513990,65610,65.12 Billion,Unavailable
+Sudan,249,sd,sdn,35000000,1861484,52.5 Billion,Unavailable
+Suriname,597,sr,sur,492829,163270,5.009 Billion,Unavailable
+Svalbard and Jan Mayen,47,sj,sjm,2550,62049,,Unavailable
+Swaziland,268,sz,swz,1354051,17363,3.807 Billion,Unavailable
+Sweden,46,se,swe,9555893,449964,552 Billion,Unavailable
+Switzerland,41,ch,che,7581000,41290,646.2 Billion,Unavailable
+Syria,963,sy,syr,22198110,185180,64.7 Billion,Unavailable
+Taiwan,886,tw,twn,22894384,35980,484.7 Billion,200
+Tajikistan,992,tj,tjk,7487489,143100,8.513 Billion,Unavailable
+Tanzania,255,tz,tza,41892895,945087,31.94 Billion,Unavailable
+Thailand,66,th,tha,67089500,514000,400.9 Billion,Unavailable
+Togo,228,tg,tgo,6587239,56785,4.299 Billion,Unavailable
+Tokelau,690,tk,tkl,1466,10,,Unavailable
+Tonga,676,to,ton,122580,748,477 Million,Unavailable
+Trinidad and Tobago,1-868,tt,tto,1228691,5128,27.13 Billion,Unavailable
+Tunisia,216,tn,tun,10589025,163610,48.38 Billion,Unavailable
+Turkey,90,tr,tur,77804122,780580,821.8 Billion,200
+Turkmenistan,993,tm,tkm,4940916,488100,40.56 Billion,Unavailable
+Turks and Caicos Islands,1-649,tc,tca,20556,430,,Unavailable
+Tuvalu,688,tv,tuv,10472,26,38 Million,Unavailable
+U.S. Virgin Islands,1-340,vi,vir,108708,352,,Unavailable
+Uganda,256,ug,uga,33398682,236040,22.6 Billion,Unavailable
+Ukraine,380,ua,ukr,45415596,603700,175.5 Billion,200
+United Arab Emirates,971,ae,are,4975593,82880,390 Billion,Unavailable
+United Kingdom,44,gb,gbr,62348447,244820,2.49 Trillion,Unavailable
+United States,1,us,usa,310232863,9629091,16.72 Trillion,Unavailable
+Uruguay,598,uy,ury,3477000,176220,57.11 Billion,200
+Uzbekistan,998,uz,uzb,27865738,447400,55.18 Billion,Unavailable
+Vanuatu,678,vu,vut,221552,12200,828 Million,Unavailable
+Vatican,379,va,vat,921,0,,Unavailable
+Venezuela,58,ve,ven,27223228,912050,367.5 Billion,Unavailable
+Vietnam,84,vn,vnm,89571130,329560,170 Billion,200
+Wallis and Futuna,681,wf,wlf,16025,274,,Unavailable
+Western Sahara,212,eh,esh,273008,266000,,Unavailable
+Yemen,967,ye,yem,23495361,527970,43.89 Billion,Unavailable
+Zambia,260,zm,zmb,13460305,752614,22.24 Billion,Unavailable
+Zimbabwe,263,zw,zwe,11651858,390580,10.48 Billion,Unavailable
