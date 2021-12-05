@@ -64,4 +64,4 @@ if __name__ == '__main__':
          1 - (np.sin(x) / 5 + 1 / 5 + np.cos(x) / 5 + 1 / 5 + x / 150)] for x in np.arange(0, 50, 0.25)
     ])
     print(f'data (4D) {simplex_point_name}:\n', data_4d)
-    plot_data_on_simplex_s3(data_4d)
+    plot_data_on_simplex_s3(data_4d, 'vector')

@@ -115,9 +115,12 @@ class Countries:
 
 def run():
     countries = Countries.load()
-    # countries.test_google_scholar(update_status=True, skip_known=True)
-    countries.show_available_scholar()
+    countries.test_google_scholar(update_status=False, skip_known=False)
+    # countries.show_available_scholar()
 
 
 if __name__ == '__main__':
     run()
+    # countries = Countries.load()
+    # for c in countries:
+    #     print(c)

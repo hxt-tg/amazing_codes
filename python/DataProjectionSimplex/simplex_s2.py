@@ -1,4 +1,4 @@
-from .projection import ProjectionSimplexS2
+from projection import ProjectionSimplexS2
 from itertools import combinations
 import numpy as np
 import matplotlib
@@ -84,4 +84,4 @@ if __name__ == '__main__':
          1 - (np.sin(x) / 8 + 1 / 3 + np.cos(x) / 8 + 1 / 4 + x / 200)] for x in np.arange(-10, 40, 0.05)
     ])
     print('data (3D) [x, y, z]:\n', data_3d)
-    plot_data_on_simplex_s2(data_3d, style='3d_curve')
+    plot_data_on_simplex_s2(data_3d, style='vector')
