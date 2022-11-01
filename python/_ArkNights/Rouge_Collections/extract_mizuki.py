@@ -7,7 +7,7 @@ RARITY_COLORS = {
     '#7d0022': '红色'
 }
 
-with open('source.html', encoding='utf8') as f:
+with open('source_mizuki.html', encoding='utf8') as f:
     html = f.read()
 
 html = bs4.BeautifulSoup(html, 'html.parser')
@@ -76,7 +76,7 @@ for item in items[:]:
         备注=note
     ))
 
-with open('output.csv', 'w', encoding='gbk', newline='\n') as f:
+with open('output_mizuki.csv', 'w', encoding='gbk', newline='\n') as f:
     writer = csv.DictWriter(f, list(item_info[0].keys()))
     writer.writeheader()
     writer.writerows(item_info)
